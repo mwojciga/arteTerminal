@@ -1,0 +1,29 @@
+2016-10-20 22:53:42,605 | INFO | (OperationProcessor.java:76) | Found port: COM5
+2016-10-20 22:53:42,609 | INFO | (OperationProcessor.java:80) | COM5 is a serial port. Added.
+2016-10-20 22:53:48,991 | INFO | (OperationProcessor.java:200) | Could not write data: java.lang.NullPointerException
+2016-10-20 22:53:51,666 | TRACE | (MainGUI.java:220) | [C]: mntmConnect
+2016-10-20 22:53:51,683 | INFO | (OperationProcessor.java:76) | Found port: COM5
+2016-10-20 22:53:51,684 | INFO | (OperationProcessor.java:80) | COM5 is a serial port. Added.
+2016-10-20 22:53:52,527 | INFO | (OperationProcessor.java:87) | Connecting to COM5
+2016-10-20 22:53:52,552 | INFO | (OperationProcessor.java:97) | Successfully connected to //./COM5
+2016-10-20 22:53:52,553 | INFO | (OperationProcessor.java:109) | Opening IOStream.
+2016-10-20 22:53:52,553 | INFO | (OperationProcessor.java:115) | IOStream successfully opened.
+2016-10-20 22:53:52,554 | INFO | (OperationProcessor.java:126) | Initializing listener.
+2016-10-20 22:55:47,555 | INFO | (OperationProcessor.java:76) | Found port: COM5
+2016-10-20 22:55:47,558 | INFO | (OperationProcessor.java:80) | COM5 is a serial port. Added.
+2016-10-20 23:08:24,368 | INFO | (OperationProcessor.java:76) | Found port: COM5
+2016-10-20 23:08:24,371 | INFO | (OperationProcessor.java:80) | COM5 is a serial port. Added.
+2016-10-20 23:08:29,855 | INFO | (OperationProcessor.java:200) | Could not write data: java.lang.NullPointerException
+2016-10-20 23:08:33,075 | TRACE | (MainGUI.java:220) | [C]: mntmConnect
+2016-10-20 23:08:33,095 | INFO | (OperationProcessor.java:76) | Found port: COM5
+2016-10-20 23:08:33,096 | INFO | (OperationProcessor.java:80) | COM5 is a serial port. Added.
+2016-10-20 23:08:34,048 | INFO | (OperationProcessor.java:87) | Connecting to COM5
+2016-10-20 23:08:34,074 | INFO | (OperationProcessor.java:97) | Successfully connected to //./COM5
+2016-10-20 23:08:34,074 | INFO | (OperationProcessor.java:109) | Opening IOStream.
+2016-10-20 23:08:34,075 | INFO | (OperationProcessor.java:115) | IOStream successfully opened.
+2016-10-20 23:08:34,075 | INFO | (OperationProcessor.java:126) | Initializing listener.
+2016-10-20 23:09:11,350 | TRACE | (MainGUI.java:211) | [C]: mntmDisconnect
+2016-10-20 23:09:11,360 | INFO | (OperationProcessor.java:139) | Disconnected from //./COM5
+2016-10-20 23:09:11,360 | INFO | (OperationProcessor.java:144) | IOStream closed.
+2016-10-20 23:10:38,590 | TRACE | (MainGUI.java:211) | [C]: mntmDisconnect
+2016-10-20 23:10:38,591 | INFO | (OperationProcessor.java:149) | Tried to disconnect, but no port was opened.
